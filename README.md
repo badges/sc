@@ -4,7 +4,7 @@ Fork of Scoutcamp maintained for [Shields][]
 
 ## Contribute
 
-Discussions in the [main repo][], please.
+Discussions in the [main repo][issues], please.
 
 [issues]: https://github.com/badges/shields/issues
 
