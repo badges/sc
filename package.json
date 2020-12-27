@@ -6,7 +6,7 @@
   ],
   "name": "@shields_io/camp",
   "description": "Fork of Scoutcamp maintained for Shields",
-  "version": "18.1.0",
+  "version": "18.1.1",
   "homepage": "https://github.com/badges/sc",
   "repository": "badges/sc",
   "main": "lib/camp.js",
